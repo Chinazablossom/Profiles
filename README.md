@@ -5,7 +5,9 @@ This app incorporates my Slack profile picture and allows users to open my GitHu
 
 ## Features
 ⊚ Show Slack Profile Picture
+
 ⊚ GitHub Integration with WebView
+
 ⊚ View GitHub Profile within the App
 
 ## Installation
@@ -15,7 +17,9 @@ This app incorporates my Slack profile picture and allows users to open my GitHu
 
 ## Technologies Used
 ⊚ Kotlin (Programming Language)
+
 ⊚ Android Studio (IDE)
+
 ⊚ WebView Component
 
 ## Usage
